@@ -1,4 +1,5 @@
 # FishBotKEKW
+![alt text](https://raw.githubusercontent.com/CapochDev/FishbotKEKW/master/FishbotKEKW.ico?token=AQRQ2WTUCUUB6Z6XF2W4I4S7MCPFI )
 
 FishBotKEKW is a simple yet fairly reliable fully external fishing bot for Albion Online, made with AutoHotKey.
 
