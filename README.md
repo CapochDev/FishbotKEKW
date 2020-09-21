@@ -31,6 +31,8 @@ To close the script press ESC.
 
 As of now the bot only works on **1920x1080** resolutions.
 
+Set the client to Borderless Window.
+
 Since the bot uses sound to check when fish took the bait, it is recomanded to set the Albion Online client volume at max on the windows audio mixer and **remove any other audio source**.
 
 It is required to remove the ingame Music and Ambience sounds and set Master Volume to 17% and Scound Effects to 30%.
