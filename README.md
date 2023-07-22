@@ -1,7 +1,7 @@
 # FishBotKEKW
 ![alt text](https://i.ibb.co/6wyRnsZ/Fishbot-KEKW-5.png)
 
-## THIS REPO IS NO LOGNER MAINTAINED
+## THIS REPO IS NO LOGNER MAINTAINED!
 
 FishBotKEKW is a simple yet fairly reliable fully external fishing bot for Albion Online, made with AutoHotKey.
 
